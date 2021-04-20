@@ -1,1 +1,3 @@
 .vscode/
+t1
+*.valgrind
