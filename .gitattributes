@@ -1,0 +1,2 @@
+*.res linguist-language=Text
+tests/ linguist-vendored
